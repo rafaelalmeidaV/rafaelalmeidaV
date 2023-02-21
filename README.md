@@ -3,8 +3,8 @@
         
 <div align="center">
   <a href="https://github.com/rafaelalmeidaV">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafaelalmeidaV&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117" alt="rafael github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalmeidaV&layout=compact&hide_border=true&title_color=00CED1&text_color=00CED1&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelalmeidaV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalmeidaV&layout=compact&langs_count=7&theme=tokyonight">
 </div>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
