@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelalmeidaV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalmeidaV&layout=compact&langs_count=7&theme=tokyonight">
    
-    <h2 align="center">🚀 Languages and Tools:</h2>
+    <h2 align="center"> 🚀 Languages and Tools: </h2>
 <br/>
     
 </div>
@@ -22,7 +22,6 @@
    
 </div>
 <br/><br/>
-  ##
 
 
   <div> 
