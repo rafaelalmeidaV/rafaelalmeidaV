@@ -37,10 +37,11 @@
   src="https://github-profile-trophy.vercel.app/?username=rafaelalmeidaV&theme=juicyfresh&&title=Stars,Commit,Repo&no-frame=true"
   width="100%" />
 <br />
+ </div>
    <br/><br/>
    <h2>
-   Contacts 
+   ✉️ Contacts 
    <h2/>
    <a href = "mailto:rafael.4avv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-</div>
+
