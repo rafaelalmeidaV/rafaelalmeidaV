@@ -28,7 +28,7 @@
    
    <h2 align="center">🏆 Github Trophies</h2>
 <img align="center"
-  src="https://github-profile-trophy.vercel.app/?username=rafaelalmeidaV&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
+  src="https://github-profile-trophy.vercel.app/?username=rafaelalmeidaV&theme=juicyfresh&&title=Stars&no-frame=true"
   width="100%" />
 <br />
    
