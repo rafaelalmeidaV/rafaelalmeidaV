@@ -1,15 +1,16 @@
 <div align="center">
-  ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/rafaelalmeidaV?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/rafaelalmeidaV?tab=followers"><img align="right" src="https://img.shields.io/github/followers/rafaelalmeidaV?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/rafaelalmeidaV">  <img align="right" src="https://komarev.com/ghpvc/?username=rafaelalmeidaV"></a>
+ 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/rafaelalmeidaV?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/rafaelalmeidaV?tab=followers"><img align="right" src="https://img.shields.io/github/followers/rafaelalmeidaV?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/rafaelalmeidaV">  <img align="right" src="https://komarev.com/ghpvc/?username=rafaelalmeidaV"></a>
         
 <div align="center">
   <a href="https://github.com/rafaelalmeidaV">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelalmeidaV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalmeidaV&layout=compact&langs_count=7&theme=tokyonight">
    
-    <h2 align="center"> 🚀 Languages and Tools: </h2>
+    
 <br/>
     
 </div>
+  <h2 align="center"> 🚀 Languages and Tools: </h2>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
