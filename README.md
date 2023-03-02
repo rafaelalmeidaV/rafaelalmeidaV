@@ -39,7 +39,8 @@
 <br />
    <br/><br/>
    <h2>
-   Contacts <a href = "mailto:rafael.4avv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   Contacts 
    <h2/>
+   <a href = "mailto:rafael.4avv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
