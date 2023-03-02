@@ -22,26 +22,21 @@
   <img align="center" alt="java-script" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-   
-   
 </div>
 <br/><br/>
 
-
   <div> 
 
- 
-   
-   <h2 align="center">🏆 Github Trophies</h2>
+   <h4 align="center">🏆 Github Trophies</h4>
 <img align="center"
   src="https://github-profile-trophy.vercel.app/?username=rafaelalmeidaV&theme=juicyfresh&&title=Stars,Commit,Repo&no-frame=true"
   width="100%" />
 <br />
  </div>
    <br/><br/>
-   <h2>
+   <h4>
    ✉️ Contacts 
-   <h2/>
+   <h4/>
    <a href = "mailto:rafael.4avv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 
