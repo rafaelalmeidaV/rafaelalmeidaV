@@ -1,9 +1,8 @@
-<h2>
-📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/rafaelalmeidaV?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/rafaelalmeidaV?tab=followers"><img align="right" src="https://img.shields.io/github/followers/rafaelalmeidaV?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/rafaelalmeidaV">  <img align="right" src="https://komarev.com/ghpvc/?username=rafaelalmeidaV"></a>
-<h2/>
+## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/rafaelalmeidaV?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/rafaelalmeidaV?tab=followers"><img align="right" src="https://img.shields.io/github/followers/rafaelalmeidaV?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/rafaelalmeidaV">  <img align="right" src="https://komarev.com/ghpvc/?username=rafaelalmeidaV"></a>
+
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
-<p align="left"> 
+<p align="center"> 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
