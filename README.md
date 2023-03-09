@@ -22,4 +22,15 @@
 
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/rafaelalmeidaV?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/rafaelalmeidaV?tab=followers"><img align="right" src="https://img.shields.io/github/followers/rafaelalmeidaV?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/rafaelalmeidaV">  <img align="right" src="https://komarev.com/ghpvc/?username=rafaelalmeidaV"></a>
 
+<p>
+  <img align="right"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalmeidaV&langs_count=8&theme=react" />
+</p>
+
+<a href="https://github.com/rafaelalmeidaV"><img alt="rafaelalmeidaV's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=rafaelalmeidaV&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelalmeidaV&theme=black-ice"
+    alt="rafaelalmeidaV" /></p>
+
 
