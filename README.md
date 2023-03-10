@@ -24,13 +24,13 @@
 
 <p>
   <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalmeidav&langs_count=8&theme=react" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalmeidav&langs_count=8&theme=synthwave&text_color=ffffff" />
 </p>
 
 <a href="https://github.com/rafaelalmeidav"><img alt="rafaelalmeidav's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=rafaelalmeidav&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
+    src="https://github-readme-stats.vercel.app/api?username=rafaelalmeidav&show_icons=true&count_private=true&theme=synthwave&text_color=ffffff" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelalmeidav&theme=black-ice"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelalmeidav&theme=synthwave&text_color=ffffff"
     alt="rafaelalmeidav" /></p>
 
 
