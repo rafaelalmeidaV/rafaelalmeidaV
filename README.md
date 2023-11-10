@@ -11,10 +11,11 @@
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></p>
 <br><br>
 
-<h2 align="center">🏆 Github Trophies</h2>
+<h2 align="center">🏆 Github Trophies</h2> 
 <img align="center"
   src="https://github-profile-trophy.vercel.app/?username=rafaelalmeidav&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true"
   width="100%" />
+
 <br />
 
 
