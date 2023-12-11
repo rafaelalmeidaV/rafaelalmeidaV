@@ -20,7 +20,7 @@
 </p>
 
 
-
+ <img align="right" src="https://img.shields.io/github/stars/rafaelalmeidaV?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/rafaelalmeidaV?tab=followers"><img align="right" src="https://img.shields.io/github/followers/rafaelalmeidaV?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/rafaelalmeidaV">  <img align="right" src="https://komarev.com/ghpvc/?username=rafaelalmeidaV"></a>
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-## <h3>📊 Github Stats</h3> <img align="right" src="https://img.shields.io/github/stars/rafaelalmeidaV?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/rafaelalmeidaV?tab=followers"><img align="right" src="https://img.shields.io/github/followers/rafaelalmeidaV?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/rafaelalmeidaV">  <img align="right" src="https://komarev.com/ghpvc/?username=rafaelalmeidaV"></a>
+## <h3>📊 Github Stats</h3>
 
 <div align="center">
   <a href="https://github.com/rafaelalmeidav">
