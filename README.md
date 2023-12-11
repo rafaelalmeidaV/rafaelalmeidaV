@@ -31,15 +31,9 @@
 
 ## 📊 Github Stats <img align="right" src="https://img.shields.io/github/stars/rafaelalmeidaV?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/rafaelalmeidaV?tab=followers"><img align="right" src="https://img.shields.io/github/followers/rafaelalmeidaV?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/rafaelalmeidaV">  <img align="right" src="https://komarev.com/ghpvc/?username=rafaelalmeidaV"></a>
 
-<p>
-  <img align="right"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalmeidaV&langs_count=8&theme=synthwave&text_color=ffffff" />
-</p>
-
-<a href="https://github.com/rafaelalmeidaV"><img alt="rafaelalmeidaV's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=rafaelalmeidaV&show_icons=true&count_private=true&theme=synthwave&text_color=ffffff" /></a>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelalmeidaV&theme=synthwave&text_color=ffffff"
-    alt="rafaelalmeidaV" /></p>
+<div align="center">
+  <a href="https://github.com/rafaelalmeidav">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelalmeidav&theme=dark" alt="Netsujr" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalmeidav&layout=compact&langs_count=7&theme=dark"/>
 
 
