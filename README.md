@@ -1,3 +1,5 @@
+
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=20&height=300&section=header&text=RAFAEL&desc=웨슬리%20-ウェスリー&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70&fontColor=6b6bb2)
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
 <p align="center"> 
