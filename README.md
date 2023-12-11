@@ -21,7 +21,7 @@
 
   
 <div align="center">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=rafaelalmeidav&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="80%" style="max-width: 800px;" />
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=rafaelalmeidav&theme=juicyfresh&&title=Stars,Followers,Commit,PR,Repo,Issues&no-frame=true" width="80%" style="max-width:1100px" />
 </div>
 
 
