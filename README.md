@@ -2,9 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=20&height=300&section=header&text=RAFAEL&desc=웨슬리%20-ウェスリー&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70&fontColor=6b6bb2)
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
-<h3 align="center">
-  I'm a student of BTech, Software Analysis and Development
-</h3>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="wesleyarm" />
