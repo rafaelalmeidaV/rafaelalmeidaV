@@ -16,7 +16,6 @@
           <p><b>tools:</b> git, jest, rabbitmq, azure</p>
           <br><br>
           <p>full-stack angular + nest developer</p>
-          <p>mobile development with react native</p>
           <p>cybersecurity professional</p>
           <p>machine learning practitioner</p>
         </samp>
