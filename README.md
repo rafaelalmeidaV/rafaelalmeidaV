@@ -2,7 +2,7 @@
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github.com/matheus-hrm/matheus-hrm/blob/main/static/giphy.gif?raw=true" width="100%" alt="Profile GIF">
+        <img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" width="100%" alt="Profile GIF">
       </td>
       <td width="50%" align="left">
         <samp>
