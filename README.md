@@ -16,8 +16,8 @@
           <p><b>tools:</b> git, jest, rabbitmq, azure</p>
           <br><br>
           <p>full-stack angular + nest developer</p>
-          <p>cybersecurity professional</p>
-          <p>machine learning practitioner</p>
+          <p>cybersecurity practitioner</p>
+          <p>machine learning professional</p>
         </samp>
       </td>
     </tr>
